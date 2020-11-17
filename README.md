@@ -6,10 +6,10 @@
 <b1><strong>⚙️ Technology's</strong></b1>
 <br>
 <p>Programming languages i know:</p>
-<p>HTML, CS3, Python, C#</p>
+<p>HTML, CS3, Python</p>
 <br>
 <p>Software and Engines i use:</p>
-<p>Anaconda, VSCode, Github Desktop, PyCharm</p>
+<p>Anaconda, VSCode, PyCharm</p>
 <br>
 <b1><strong>🔎 I'm looking for</strong></p>
 <p>a job of back-end developer.</p>
@@ -20,6 +20,4 @@
 <p>🖥️ Games, Moba, PC</p>
 <p>🎧 Listening to electronics music</p>
 <p>🎞️ Watch movies and series</p>
-<p>🏊 Swim</p>
 <!--
-**FelipeMars/FelipeMars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
