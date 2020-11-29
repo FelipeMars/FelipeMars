@@ -6,10 +6,10 @@
 <b1><strong>⚙️ Technology's</strong></b1>
 <br>
 <p>Programming languages i know:</p>
-<p>HTML, CS3, Python</p>
+<p>HTML, CS3, Python, Java</p>
 <br>
 <p>Software and Engines i use:</p>
-<p>Anaconda, VSCode, PyCharm</p>
+<p>Anaconda, VSCode, PyCharm, NetBeans</p>
 <br>
 <b1><strong>🔎 I'm looking for</strong></p>
 <p>a job of back-end developer.</p>
