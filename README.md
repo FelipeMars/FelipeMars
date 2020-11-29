@@ -7,8 +7,7 @@
 <br>
 <p align="center"><strong>Programming languages i know:</strong></p>
 <p align="center"><img src="https://i.imgur.com/jrHpMQH.png" heigth="50px" width="250px></p>
-<br>
-<p align="center"><strong>Software and Engines i use:</strong></p>
+<p align="center"><strong><br>Software and Engines i use:</strong></p>
 <p align="center"><img src="https://i.imgur.com/excHV8m.png" heigth="50px" width="250px"></p>
 <hr>
 <h2><strong>🔎 I'm looking for</strong></h2>
