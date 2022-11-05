@@ -3,6 +3,22 @@
 <h1><strong>❓ Who I am?</strong></h1>
 <p align="center">My name is Felipe Martins. I'm 18 years old and I'm from Itapevi, SP - Brazil. I am a student of Computer Science at Universidade Paulista (UNIP). Passionate about programming, games and electronic music.</p>
 <hr>
+
+
+### Experiência de trabalho
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+
+**Assitente de TI** \
+[**SpaceX**](https://www.spacex.com/) • Full-time \
+Linguagens & Tecnologias: `Angular`, `React`, `.Net Core`, `SQL Server`, `PostgreSQL`, `MongoDb`, `Redis`, `Ionic`,\
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/felipemartoliveira/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+
 <h2><strong>⚙️ Technology's</strong></h2>
 <br>
 <p align="center"><strong>Programming languages i know:</strong></p>
