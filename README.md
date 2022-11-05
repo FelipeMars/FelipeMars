@@ -32,7 +32,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Assitente de TI** \
 [**Cacau Show**](https://www.cacaushow.com.br/) • Período Integral \
-Linguagens & Tecnologias: `Angular`, `React`, `.Net Core`, `SQL Server`, `PostgreSQL`, `MongoDb`, `Redis`, `Ionic`.\
+Linguagens & Tecnologias: `Angular`, `React`, `.Net Core`, `SQL Server`, `PostgreSQL`, `MongoDb`, `Redis`, `Ionic`.
 
 <br/>
 <br/>
