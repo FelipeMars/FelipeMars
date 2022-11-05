@@ -25,6 +25,8 @@ Cursando o 6º semestre de Ciências da Computação na Universidade Paulista, a
 
 </p> 
 
+<br/>
+
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
@@ -34,6 +36,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [**Cacau Show**](https://www.cacaushow.com.br/) • Período Integral \
 Linguagens & Tecnologias: `Angular`, `React`, `.Net Core`, `SQL Server`, `PostgreSQL`, `MongoDb`, `Redis`, `Ionic`.\
 
+<br/>
 
 ### Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemars&show_icons=true)
