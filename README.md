@@ -12,7 +12,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Assitente de TI** \
 [**Cacau Show**](https://www.cacaushow.com.br/) • Período Integral \
-Linguagens & Tecnologias: `Angular`, `React`, `.Net Core`, `SQL Server`, `PostgreSQL`, `MongoDb`, `Redis`, `Ionic`,\
+Linguagens & Tecnologias: `Angular`, `React`, `.Net Core`, `SQL Server`, `PostgreSQL`, `MongoDb`, `Redis`, `Ionic`.\
 <br/>
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/felipemartoliveira/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
@@ -38,3 +38,6 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/felipemartolive
   <li><p>🎞️ Watch movies and series</p></li>
 </ul>
 <!--
+
+## ⭐ Informações sobre minha conta GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemars&show_icons=true)
