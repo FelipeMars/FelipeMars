@@ -39,4 +39,4 @@ Linguagens & Tecnologias: `Angular`, `React`, `.Net Core`, `SQL Server`, `Postgr
 <br/>
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemars&show_icons=true)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemars&show_icons=true)
