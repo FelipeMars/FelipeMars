@@ -25,8 +25,6 @@ Cursando o 6º semestre de Ciências da Computação na Universidade Paulista, a
 
 </p> 
 
-<br/>
-
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
