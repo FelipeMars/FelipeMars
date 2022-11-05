@@ -1,8 +1,37 @@
-### <h2>Hey Developer! 👋</h2>
-<br>
-<h1><strong>❓ Who I am?</strong></h1>
-<p align="center">My name is Felipe Martins. I'm 18 years old and I'm from Itapevi, SP - Brazil. I am a student of Computer Science at Universidade Paulista (UNIP). Passionate about programming, games and electronic music.</p>
-<hr>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<p align="left"> 
+Cursando o 6º semestre de Ciências da Computação na Universidade Paulista, atualmente atuando no mercado como Desenvolvedor Full Stack na Cacau Show na criação e manutenção de sistemas de uso corporativo e externo de escala nacional para web e mobile.
+</p>
+
+<p align="left">
+  🦄 Linguagens: <strong>Angular, React, Python, .Net Core, SQL Server, PostgreSQL, MongoDb, Redis, Ionic, NodeJs Express.</strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>PyCharm, Visual Studio Code, Visual Studio 2022.</strong>
+</p>
+
+<p align="left">
+  💌 Desenvolvedor Full Stack
+</p>
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+
+  <a href="#" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>  
 
 
 ### Experiência de trabalho
@@ -14,29 +43,6 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [**Cacau Show**](https://www.cacaushow.com.br/) • Período Integral \
 Linguagens & Tecnologias: `Angular`, `React`, `.Net Core`, `SQL Server`, `PostgreSQL`, `MongoDb`, `Redis`, `Ionic`.\
 <br/>
-
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/felipemartoliveira/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
-
-<h2><strong>⚙️ Technology's</strong></h2>
-<br>
-<p align="center"><strong>Programming languages i know:</strong></p>
-<p align="center"><img src="https://i.imgur.com/jrHpMQH.png" heigth="50px" width="250px></p>
-<p align="center"><strong><br>Software and Engines i use:</strong></p>
-<p align="center"><img src="https://i.imgur.com/excHV8m.png" heigth="50px" width="250px"></p>
-<hr>
-<h2><strong>🔎 I'm looking for</strong></h2>
-<ul>
-  <li><p>a job of back-end developer.</p></li>
-  <li><p>Collaborate on a project</p></li>
-  <li><p>Expose my projects</p></li>
-</ul>
-<hr>
-<h2><strong>Hobbies</strong></h2>
-<ul>
-  <li><p>🖥️ Games, Moba, PC</p></li>
-  <li><p>🎧 Listening to electronics music</p></li>
-  <li><p>🎞️ Watch movies and series</p></li>
-</ul>
 
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemars&show_icons=true)
