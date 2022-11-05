@@ -25,9 +25,7 @@ Cursando o 6º semestre de Ciências da Computação na Universidade Paulista, a
 
 </p> 
 
-<br/>
-
-## Experiência de trabalho
+### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGx9uY61xp2DA/company-logo_200_200/0/1625141894998?e=1675900800&v=beta&t=d0ckhWL52u9AVYie3t5HpO_nms-hw6J3yUyr8M3bI_g"/>](https://www.spacex.com/)
@@ -36,7 +34,6 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [**Cacau Show**](https://www.cacaushow.com.br/) • Período Integral \
 Linguagens & Tecnologias: `Angular`, `React`, `.Net Core`, `SQL Server`, `PostgreSQL`, `MongoDb`, `Redis`, `Ionic`.\
 
-<br/>
 
-## Informações sobre minha conta GitHub
+### Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemars&show_icons=true)
