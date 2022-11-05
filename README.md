@@ -37,7 +37,6 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/felipemartolive
   <li><p>🎧 Listening to electronics music</p></li>
   <li><p>🎞️ Watch movies and series</p></li>
 </ul>
-<!--
 
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemars&show_icons=true)
