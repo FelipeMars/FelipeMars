@@ -17,18 +17,14 @@ Cursando o 6º semestre de Ciências da Computação na Universidade Paulista, a
 </p>
 
 <p align="left">
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/felipemartoliveira/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipemartoliveira/" /></a>
-
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511987694082&text=Ol%C3%A1%20Felipe%2C%20vi%20seu%20perfil%20no%20GitHub%20e%20tenho%20interesse%20em%20uma%20conversa!"/></a>
-
 </p> 
 
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGx9uY61xp2DA/company-logo_200_200/0/1625141894998?e=1675900800&v=beta&t=d0ckhWL52u9AVYie3t5HpO_nms-hw6J3yUyr8M3bI_g"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://seeklogo.com/images/C/cacau-show-2017-logo-E60488355E-seeklogo.com.png"/>](https://www.cacaushow.com.br/)
 
 **Assitente de TI** \
 [**Cacau Show**](https://www.cacaushow.com.br/) • Período Integral \
