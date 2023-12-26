@@ -1,19 +1,19 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-Cursando o 6º semestre de Ciências da Computação na Universidade Paulista, atualmente atuando no mercado como Desenvolvedor Full Stack na Cacau Show na criação e manutenção de sistemas de uso corporativo e externo de escala nacional para web e mobile.
+Graduado em Ciência da Computação na Universidade Paulista, atualmente atuando no mercado como Desenvolvedor Front End Pleno na BMG Seguros na criação e manutenção de sistemas de uso corporativo para web.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Angular, React, Python, .Net Core, SQL Server, PostgreSQL, MongoDb, Redis, Ionic, NodeJs Express.</strong>
+  🦄 Principais Stacks: <strong>Angular 12+ & .Net.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>PyCharm, Visual Studio Code, Visual Studio 2022.</strong>
+  💼 Ferramentas: <strong>Visual Studio Code & Visual Studio 2022.</strong>
 </p>
 
 <p align="left">
-  💌 Desenvolvedor Full Stack
+  💌 Desenvolvimento Full Stack
 </p>
 
 <p align="left">
@@ -22,16 +22,18 @@ Cursando o 6º semestre de Ciências da Computação na Universidade Paulista, a
 </p> 
 
 ### Experiência de trabalho
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://seeklogo.com/images/C/cacau-show-2017-logo-E60488355E-seeklogo.com.png"/>](https://www.cacaushow.com.br/)
+[<img align="left" height="94px" width="94px" style="object-fit: contain;" alt="BMG Seguros" src="https://agenciasegnews.com.br/wp-content/uploads/2023/06/LOGO-BMG.jpg"/>]()
+**Desenvolvedor Front-End Pleno [ATUAL]** abr de 2023 até atualmente \
+[**BMG Seguros**](https://www.bmgseguros.com.br/home) • Período Integral (PJ) \
+Linguagens & Tecnologias: `Angular 12+` e `ASP.NET MVC 5`.
 
-**Assitente de TI** \
+[<img align="left" height="94px" width="94px" alt="Cacau Show" src="https://seeklogo.com/images/C/cacau-show-2017-logo-E60488355E-seeklogo.com.png"/>](https://www.cacaushow.com.br/)
+**Assitente de TI** jan de 2021 até mar de 2023 \
 [**Cacau Show**](https://www.cacaushow.com.br/) • Período Integral \
-Linguagens & Tecnologias: `Angular`, `React`, `.Net Core`, `SQL Server`, `PostgreSQL`, `MongoDb`, `Redis`, `Ionic`.
+Linguagens & Tecnologias: `Angular`, `React`, `.Net Core`, `SQL Server`, `PostgreSQL`, `MongoDb`, `Redis` e `Ionic`.
 
 <br/>
 <br/>
 
-### Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemars&show_icons=true)
