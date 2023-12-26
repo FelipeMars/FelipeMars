@@ -34,8 +34,3 @@ Linguagens & Tecnologias: `Angular 12+` e `ASP.NET MVC 5`.
 **Assitente de TI** • jan de 2021 até mar de 2023 \
 [**Cacau Show**](https://www.cacaushow.com.br/) • Período Integral \
 Linguagens & Tecnologias: `Angular`, `React`, `.Net Core`, `SQL Server`, `PostgreSQL`, `MongoDb`, `Redis` e `Ionic`.
-
-<br/>
-<br/>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemars&show_icons=true)
