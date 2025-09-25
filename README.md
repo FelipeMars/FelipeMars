@@ -1,6 +1,6 @@
 ---
 
-# Olá, sou o Felipe! 👋
+# Olá, sou o Felipe Martins de Oliveira! 👋
 
 Sou um **Desenvolvedor Fullstack** com experiência na criação de soluções web robustas e escaláveis. Minha paixão é transformar ideias em produtos digitais de alta qualidade, aplicando as melhores práticas de desenvolvimento para resolver desafios complexos.
 
@@ -15,6 +15,18 @@ Minha stack de desenvolvimento é construída sobre tecnologias consolidadas e m
 ### Backend
 * **.NET**
 
+### Bancos de Dados
+* **SQL Server**
+* **Postgres**
+* **MongoDB**
+* **Redis**
+
+### Infraestrutura
+* **Docker**
+* **Docker Compose**
+* **Kubernetes**
+* **Secrets**
+
 ## 💼 Experiência e Habilidades
 * **Desenvolvimento Fullstack:** Atuo em todo o ciclo de vida de aplicações, desde a concepção até a implantação e manutenção.
 * **Arquitetura de Sistemas:** Habilidade na criação de APIs RESTful e microsserviços eficientes e seguros.
@@ -25,5 +37,4 @@ Minha stack de desenvolvimento é construída sobre tecnologias consolidadas e m
 
 ### 📫 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEU_USUARIO_DO_LINKEDIN](https://www.linkedin.com/in/felipemartoliveira/))
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipemartoliveira/)
